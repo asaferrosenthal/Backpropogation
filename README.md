@@ -1,2 +1,2 @@
-# Backpropogation
-Backpropagation neural network
+# Backpropogation Neural Network
+This projects was completed individually, with the goal of training and testing a backpropagation neural network. The network was created from scratch, while the project also involved comparing our network, to one created using the Scikit-learn library. The network had the goal of classifying handwritten characters using the MNIST training dataset. Once trained and tested, the network would output a confusion matrix, and overall precision and recall.
